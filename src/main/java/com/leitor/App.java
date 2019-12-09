@@ -1,7 +1,5 @@
 package com.leitor;
 
-import java.net.URISyntaxException;
-
 import com.leitor.processamento.LeitordeArquivos;
 
 public class App {
