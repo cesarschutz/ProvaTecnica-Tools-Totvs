@@ -28,5 +28,4 @@ public class Cliente {
 	public void setRamoDeAtividade(String ramoDeAtividade) {
 		this.ramoDeAtividade = ramoDeAtividade;
 	}
-
 }
