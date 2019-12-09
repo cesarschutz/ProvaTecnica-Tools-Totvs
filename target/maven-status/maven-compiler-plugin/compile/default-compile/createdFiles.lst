@@ -1,0 +1,5 @@
+com\leitor\entidades\Venda.class
+com\leitor\App.class
+com\leitor\processamento\LeitordeArquivos.class
+com\leitor\entidades\Cliente.class
+com\leitor\entidades\Vendedor.class
