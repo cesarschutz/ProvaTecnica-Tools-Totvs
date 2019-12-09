@@ -18,6 +18,7 @@ Exemplo:
 003;10;11010;300;3403.30;Diego
 003;08;13410;540;2400.10;Renato
 
+
 Poderão ser submetidos vários arquivos para serem importados, o programa deve ler todos os arquivos
 com extensão .dat que forem colocados no diretório /dados/in/
 Após ler todos os dados o sistema deve criar um arquivo no diretório
